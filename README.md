@@ -27,7 +27,7 @@ Initial configuration and authentication check.
 
 Generates and reserves a new Hide My Email address.
 
-[Install HME Generate](https://www.icloud.com/shortcuts/c7039e774db3416db3014f71dff8777e)
+[Install HME Generate](https://www.icloud.com/shortcuts/a5f5a45f76fa4601a4a27e9966aeadf5)
 
 ### HME Update Cookie
 
